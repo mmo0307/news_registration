@@ -1,0 +1,13 @@
+{
+    "logo_text": "Test-task",
+    "logout": "Logout",
+    "login_button": "Login",
+    "login_text": "Login",
+    "password_text": "Password",
+    "error_input": "Username or password doesn`t correct",
+    "home": "Home",
+    "news": "News",
+    "profile": "Profile",
+    "delete_button": "Delete",
+    "no_page": "No page"
+}
